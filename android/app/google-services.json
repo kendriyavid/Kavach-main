@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254125103477",
+    "project_id": "papaturu-b903a",
+    "storage_bucket": "papaturu-b903a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254125103477:android:dc6ad3b891c895eb071b3c",
+        "android_client_info": {
+          "package_name": "com.example.papatruecaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254125103477-ae33tqhc0vktjmcalo62750kvd00lo7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKgzYnXxFmhgNYpMmfmQKwBgLffqWVrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254125103477-ae33tqhc0vktjmcalo62750kvd00lo7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
